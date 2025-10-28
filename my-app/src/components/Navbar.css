@@ -1,0 +1,23 @@
+.Nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width:auto;
+    height: 100px;
+    margin: auto;
+    padding: 0px 10px;
+    font-size: 20px ;
+    border-bottom: 1px solid #d7d7d7;
+    background-color: rgb(10, 33, 135);
+    
+}
+
+h1{
+    text-align: center;
+    align-items: center;
+    color: #ffffff;
+}
+
+.title{
+    margin: auto;
+}

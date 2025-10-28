@@ -1,0 +1,30 @@
+.App{
+    background-color: black;
+    min-height: 100vh;
+}
+
+.btn-pre{
+    width: 100px;
+    height: 50px;
+    font-size: 18px;
+    padding: 7px 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border:none ;
+    background: rgb(22, 22, 151);
+    color: aliceblue;
+    margin-left: 400px;
+}
+
+.btn-next{
+    width: 100px;
+    height: 50px;
+    font-size: 18px;
+    padding: 7px 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border:none ;
+    background: rgb(22, 22, 151);
+    color: aliceblue;
+    margin-left: 530px;
+}
