@@ -1,7 +1,10 @@
 import './Hamburger.css'
 
-//  For animation and icom
+//  For animation and icon
 // 'Hamburger' open={open}
+
+// if open === True css class will be Hamburger.open
+// else css class will be Hamburger
 export default function Hamburger({open,setOpen}){
     return(
         <>  

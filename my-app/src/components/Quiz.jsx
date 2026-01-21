@@ -13,7 +13,7 @@ function Quiz({quiz,ans}){
             setflip("flip");
         }
     }
-
+    // show quiz or ans ?
     return(
         <div className="quiz">
             <Card flip={flip} onFlip={toggleFlip}>
